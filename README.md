@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gayathri J Nair</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineering student from India</h3>
 <img align="right" alt="coding" width="250"src="https://user-images.githubusercontent.com/83536175/206255229-30fdf94a-4999-4215-b5b5-b1b90fb99368.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-2002&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-2002" /> </p>
